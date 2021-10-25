@@ -1,0 +1,14 @@
+.form-control:focus{
+    border-color: green;
+    box-shadow: 0 0 0 0.1rem #8ebdb1;
+}
+
+.form-div{
+    background-color: 0 0 0 0.1rem #8ebdb1;
+}
+
+h2{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

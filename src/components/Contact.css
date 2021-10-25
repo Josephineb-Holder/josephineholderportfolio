@@ -1,0 +1,34 @@
+.form-control:focus{
+    border-color: green;
+    box-shadow: 0 0 0 0.1rem #8ebdb1;
+}
+
+.form{
+   
+    text-align: center;
+    
+}
+
+#form-div{
+    width: 69%;
+    background-color: hsla(120, 76%, 90%, 0.74);
+    margin-left: 15%;
+}
+
+.btn{
+    margin-top: 5px;
+    width: 20%;
+    background-color: green;
+}
+
+.form-group{
+    margin-top: 10px;
+    margin-left: 12px;
+    width: 950px;
+    
+}
+
+.btn{
+    width: 100px;
+}
+

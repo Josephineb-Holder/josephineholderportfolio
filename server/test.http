@@ -1,0 +1,9 @@
+POST http://localhost:3001/app/signup
+Content-Type: application/json
+
+{
+    "fullName":"Morlu",
+    "email":"jojo@gmail.com",
+    "number":"0886990381",
+    "country":"USA"
+}
